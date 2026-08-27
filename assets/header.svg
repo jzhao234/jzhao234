@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Junhao Zhao — memory, routing, agents, and verification">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Junhao Zhao — Junior Solutions Engineer at ElcanoTek and Temple University computer science graduate beginning an M.S. in Artificial Intelligence">
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0A0F16"/>
@@ -31,40 +31,32 @@
   <circle cx="118" cy="130" r="150" fill="url(#glow)"/>
   <circle cx="1080" cy="130" r="170" fill="url(#glow)" opacity="0.45"/>
 
-  <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">
+  <g>
     <rect x="54" y="66" width="128" height="128" rx="28" fill="#111926" stroke="#4D9CFF" stroke-width="2"/>
-    <text x="118" y="147" text-anchor="middle" font-size="50" font-weight="700" fill="#E9EEF5">JZ</text>
+    <text x="118" y="147" text-anchor="middle" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="50" font-weight="700" fill="#E9EEF5">JZ</text>
     <circle cx="160" cy="88" r="5" fill="#4D9CFF" filter="url(#soft-glow)"/>
+    <text x="118" y="218" text-anchor="middle" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10" font-weight="600" letter-spacing="1.5" fill="#64748B">PHILADELPHIA, PA</text>
 
-    <path d="M 220 130 H 1080" fill="none" stroke="url(#signal)" stroke-width="2"/>
-
-    <g transform="translate(274 92)">
-      <rect width="168" height="76" rx="12" fill="#111926" stroke="#2B3B50"/>
-      <circle cx="22" cy="20" r="4" fill="#4D9CFF"/>
-      <text x="84" y="47" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="2" fill="#E9EEF5">MEMORY</text>
+    <g transform="translate(250 52)">
+      <rect width="510" height="156" rx="16" fill="#111926" stroke="#2B3B50"/>
+      <circle cx="30" cy="28" r="4" fill="#4D9CFF"/>
+      <text x="46" y="33" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="600" letter-spacing="2.5" fill="#64748B">WORK</text>
+      <rect x="30" y="48" width="450" height="2" rx="1" fill="url(#signal)"/>
+      <text x="30" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#E9EEF5">Junior Solutions Engineer</text>
+      <text x="30" y="114" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="600" letter-spacing="2" fill="#4D9CFF">ELCANOTEK</text>
+      <text x="30" y="139" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#94A5BA">AI agents for programmatic advertising</text>
     </g>
 
-    <g transform="translate(478 92)">
-      <rect width="168" height="76" rx="12" fill="#111926" stroke="#2B3B50"/>
-      <circle cx="22" cy="20" r="4" fill="#4D9CFF"/>
-      <text x="84" y="47" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="2" fill="#E9EEF5">ROUTING</text>
+    <g transform="translate(784 52)">
+      <rect width="360" height="156" rx="16" fill="#111926" stroke="#2B3B50"/>
+      <circle cx="30" cy="28" r="4" fill="#7DB6FF" filter="url(#soft-glow)"/>
+      <text x="46" y="33" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="600" letter-spacing="2.5" fill="#64748B">EDUCATION</text>
+      <rect x="30" y="48" width="300" height="2" rx="1" fill="url(#signal)"/>
+      <text x="30" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#E9EEF5">Temple University</text>
+      <text x="30" y="113" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#94A5BA">B.S. Computer Science · 2026</text>
+      <text x="30" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#94A5BA">M.S. AI · begins Fall 2026</text>
     </g>
-
-    <g transform="translate(682 92)">
-      <rect width="168" height="76" rx="12" fill="#111926" stroke="#2B3B50"/>
-      <circle cx="22" cy="20" r="4" fill="#4D9CFF"/>
-      <text x="84" y="47" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="2" fill="#E9EEF5">AGENTS</text>
-    </g>
-
-    <g transform="translate(886 92)">
-      <rect width="168" height="76" rx="12" fill="#111926" stroke="#2B3B50"/>
-      <circle cx="22" cy="20" r="4" fill="#7DB6FF" filter="url(#soft-glow)"/>
-      <text x="84" y="47" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="2" fill="#E9EEF5">VERIFY</text>
-    </g>
-
-    <text x="274" y="206" font-size="12" letter-spacing="3" fill="#64748B">BUILDING SYSTEMS AROUND CLEAR BOUNDARIES</text>
   </g>
 
-  <rect x="274" y="222" width="780" height="2" rx="1" fill="url(#signal)"/>
   <rect width="1200" height="260" rx="24" fill="none" stroke="#1F2C3D" stroke-width="2"/>
 </svg>
