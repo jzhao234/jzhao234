@@ -21,6 +21,6 @@ hardening, and chat and administration experiences.
 | [**Baketsu**](https://github.com/jzhao234/Baketsu-CloudStorage) | Cloud-storage class project where I built S3 uploads and tracking, per-user file management, cost dashboards, and authenticated account flows. |
 
 <p align="center">
-  <a href="https://junhaozhao.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/junhao-zhao/">LinkedIn</a>
+  <a href="https://junhaozhao.com"><img src="assets/portfolio-button.svg" height="42" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/junhao-zhao/"><img src="assets/linkedin-button.svg" height="42" alt="LinkedIn" /></a>
 </p>
