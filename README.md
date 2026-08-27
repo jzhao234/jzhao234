@@ -15,6 +15,11 @@ semantic model routing, and safe repository automation.
 - **[Codebase Guardian](https://github.com/jzhao234/Codebase-Guardian)** — An
   autonomous maintenance agent that detects stale repository documentation and
   configuration, proposes safe fixes, and verifies changes before committing.
+- **[Baketsu Cloud Storage](https://github.com/jzhao234/Baketsu-CloudStorage)** —
+  A collaborative cloud-storage class project where I implemented much of the
+  storage and account workflow: AWS S3 uploads and storage tracking, per-user
+  file management, a usage and cost dashboard, protected login state, and email
+  verification.
 
 ## Elsewhere
 
