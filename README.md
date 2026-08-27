@@ -4,6 +4,13 @@ I build AI-native developer tools and local-first software, primarily with
 TypeScript and Python. My recent work focuses on portable agent memory,
 semantic model routing, and safe repository automation.
 
+## Current work
+
+- **[Fleet](https://github.com/ElcanoTek/fleet)** — At ElcanoTek, I contribute
+  to this self-hosted AI agent platform across scheduler and agent-runtime
+  reliability, MCP tooling, security hardening, and chat and administration
+  experiences.
+
 ## Featured projects
 
 - **[big-brain](https://github.com/jzhao234/big-brain)** — A plain-Markdown,
