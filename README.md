@@ -1,34 +1,23 @@
-# Hi, I'm Junhao Zhao
+# Junhao Zhao
 
-I build AI-native developer tools and local-first software, primarily with
-TypeScript and Python. My recent work focuses on portable agent memory,
-semantic model routing, and safe repository automation.
+> Junior Solutions Engineer at [ElcanoTek](https://elcanotek.com), building AI
+> agents and developer tools for programmatic advertising.
+
+`TypeScript` · `Python` · `MCP`
+
+[Portfolio](https://junhaozhao.com) · [LinkedIn](https://www.linkedin.com/in/junhao-zhao/)
 
 ## Current work
 
-- **[Fleet](https://github.com/ElcanoTek/fleet)** — At ElcanoTek, I contribute
-  to this self-hosted AI agent platform across scheduler and agent-runtime
-  reliability, MCP tooling, security hardening, and chat and administration
-  experiences.
+I contribute to [**Fleet**](https://github.com/ElcanoTek/fleet), a self-hosted AI
+agent platform, across scheduler and runtime reliability, MCP tooling, security
+hardening, and chat and administration experiences.
 
-## Featured projects
+## Selected projects
 
-- **[big-brain](https://github.com/jzhao234/big-brain)** — A plain-Markdown,
-  Obsidian-compatible knowledge vault that humans and AI assistants can share
-  through the Model Context Protocol.
-- **[Tarot Club](https://github.com/jzhao234/tarot-club)** — A self-hosted,
-  OpenAI-compatible router that selects the cheapest capable language model by
-  meaning and keeps conversations from switching models unnecessarily.
-- **[Codebase Guardian](https://github.com/jzhao234/Codebase-Guardian)** — An
-  autonomous maintenance agent that detects stale repository documentation and
-  configuration, proposes safe fixes, and verifies changes before committing.
-- **[Baketsu Cloud Storage](https://github.com/jzhao234/Baketsu-CloudStorage)** —
-  A collaborative cloud-storage class project where I implemented much of the
-  storage and account workflow: AWS S3 uploads and storage tracking, per-user
-  file management, a usage and cost dashboard, protected login state, and email
-  verification.
-
-## Elsewhere
-
-[Portfolio](https://junhaozhao.com) ·
-[LinkedIn](https://www.linkedin.com/in/junhao-zhao/)
+| Project | What it does |
+| --- | --- |
+| [**big-brain**](https://github.com/jzhao234/big-brain) | Local-first, plain-Markdown memory shared by people and AI assistants through MCP. |
+| [**Tarot Club**](https://github.com/jzhao234/tarot-club) | OpenAI-compatible model router that selects models semantically and keeps routing stable per conversation. |
+| [**Codebase Guardian**](https://github.com/jzhao234/Codebase-Guardian) | Repository maintenance agent that detects stale docs and configuration, proposes fixes, and verifies them before committing. |
+| [**Baketsu**](https://github.com/jzhao234/Baketsu-CloudStorage) | Cloud-storage class project where I built S3 uploads and tracking, per-user file management, cost dashboards, and authenticated account flows. |
