@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Junhao Zhao — good trails, good meals, good stories, and a great nap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Junhao Zhao — outdoors, movement, travel, stargazing, games, stories, good meals, and a great nap">
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0A0F16"/>
@@ -43,11 +43,15 @@
 
     <text x="250" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#E9EEF5">Good trails, good meals,</text>
     <text x="250" y="163" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#E9EEF5">good stories, and a great nap.</text>
-    <text x="250" y="198" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" font-weight="600" letter-spacing="1.7" fill="#4D9CFF">OUTDOORS · MOVEMENT · TRAVEL · GAMES · STORIES</text>
+    <text x="250" y="198" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#4D9CFF">OUTDOORS · MOVEMENT · TRAVEL · STARGAZING · GAMES · STORIES</text>
 
     <circle cx="1080" cy="56" r="17" fill="#4D9CFF" opacity="0.16"/>
     <circle cx="1080" cy="56" r="8" fill="#7DB6FF" filter="url(#soft-glow)"/>
+    <path d="M930 52 L955 74 L980 47 L1018 45 L1038 69" fill="none" stroke="#2B3B50" stroke-width="1.5"/>
+    <circle cx="930" cy="52" r="1.5" fill="#64748B"/>
+    <circle cx="980" cy="47" r="1.8" fill="#94A5BA"/>
     <circle cx="1018" cy="45" r="2" fill="#94A5BA"/>
+    <circle cx="1038" cy="69" r="1.5" fill="#64748B"/>
     <circle cx="1134" cy="88" r="2" fill="#64748B"/>
     <circle cx="955" cy="74" r="1.5" fill="#64748B"/>
 
