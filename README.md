@@ -1,13 +1,4 @@
-# Junhao Zhao
-
-> Junior Solutions Engineer at [ElcanoTek](https://elcanotek.com), building AI
-> agents and developer tools for programmatic advertising.
-
-`TypeScript` · `Python` · `MCP`
-
-[Portfolio](https://junhaozhao.com) · [LinkedIn](https://www.linkedin.com/in/junhao-zhao/)
-
-## Current work
+## Building
 
 I contribute to [**Fleet**](https://github.com/ElcanoTek/fleet), a self-hosted AI
 agent platform, across scheduler and runtime reliability, MCP tooling, security
@@ -21,3 +12,5 @@ hardening, and chat and administration experiences.
 | [**Tarot Club**](https://github.com/jzhao234/tarot-club) | OpenAI-compatible model router that selects models semantically and keeps routing stable per conversation. |
 | [**Codebase Guardian**](https://github.com/jzhao234/Codebase-Guardian) | Repository maintenance agent that detects stale docs and configuration, proposes fixes, and verifies them before committing. |
 | [**Baketsu**](https://github.com/jzhao234/Baketsu-CloudStorage) | Cloud-storage class project where I built S3 uploads and tracking, per-user file management, cost dashboards, and authenticated account flows. |
+
+[Portfolio](https://junhaozhao.com) · [LinkedIn](https://www.linkedin.com/in/junhao-zhao/)
